@@ -14,17 +14,17 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Provided Mock-up Dashboard
 
-![image alt] (https://github.com/Kunalssj/Hospitality-Analysis/blob/99b74d4dfa1474ae05232fb6c08f587a50b6e52c/dataset/mock%20up%20dashboard_atliq%20grands.png)
+![image alt](https://github.com/Kunalssj/Hospitality-Analysis/blob/99b74d4dfa1474ae05232fb6c08f587a50b6e52c/dataset/mock%20up%20dashboard_atliq%20grands.png)
 
 ## Data Model
 
-![image alt] (https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/586c0f9fa834dbf0cc37edaba13b0a502dfe8aac/resources/data_model.png)
+![image alt](https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/586c0f9fa834dbf0cc37edaba13b0a502dfe8aac/resources/data_model.png)
 ## Overall Analysis View
 
-![image alt] (https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/586c0f9fa834dbf0cc37edaba13b0a502dfe8aac/resources/overall_view.png)
+![image alt](https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/586c0f9fa834dbf0cc37edaba13b0a502dfe8aac/resources/overall_view.png)
 ## Monthly Analysis View
 
-![image alt] (https://github.com/Kunalssj/Hospitality-Analysis/blob/99b74d4dfa1474ae05232fb6c08f587a50b6e52c/resources/monthly_view.png)
+![image alt](https://github.com/Kunalssj/Hospitality-Analysis/blob/99b74d4dfa1474ae05232fb6c08f587a50b6e52c/resources/monthly_view.png)
 ## Learnt things from this Project 
 - Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. ([Article referred](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D))
 - By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
